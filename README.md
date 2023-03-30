@@ -1,7 +1,2 @@
 # personal_website
-
-To view this website run the following command in your terminal
-```bash
-  git clone git@github.com:Matt-Ramis-Personal-Website/Personal_Website.git
-```
-
+Hello! This repo contains the files to my personal website.
